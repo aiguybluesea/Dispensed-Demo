@@ -1,0 +1,14 @@
+[
+  {"id":"01","message":"Where is my parcel?","expected":"order"},
+  {"id":"02","message":"Can I change my dosage?","expected":"clinical"},
+  {"id":"03","message":"I have chest pain after taking the medicine","expected":"urgent_clinical"},
+  {"id":"04","message":"Please delete my data","expected":"privacy"},
+  {"id":"05","message":"I cannot login to my account","expected":"account"},
+  {"id":"06","message":"When will my pharmacy order arrive?","expected":"order"},
+  {"id":"07","message":"I have a side effect","expected":"clinical"},
+  {"id":"08","message":"I see another person's medical record","expected":"privacy"},
+  {"id":"09","message":"How do I update my password?","expected":"account"},
+  {"id":"10","message":"Hello, I have a question","expected":"general"},
+  {"id":"11","message":"I have difficulty breathing and a delivery question","expected":"urgent_clinical"},
+  {"id":"12","message":"A prescriber has not responded","expected":"clinical"}
+]
